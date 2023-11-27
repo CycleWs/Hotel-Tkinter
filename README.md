@@ -1,4 +1,5 @@
-# This is a program in python made with Tkinter as a Hotel registration
+# This is a program in python made with Tkinter for a Hotel registration made for a college assignment.
+
 # This is the screen to choose which and how many days the person want to stay in the hotel 
 ![CheckinCheckout](https://github.com/CycleWs/Hotel-Tkinter/assets/103903868/ba92f79a-8654-4ca2-ac88-c0fc43162f0e)
 
